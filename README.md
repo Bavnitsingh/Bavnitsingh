@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CHHABDA BAVNIT SINGH
 - 👀 I’m interested in DSA and Web Development and Machine Learning
-- 🌱 I’m currently learning Dsa and Wev devlopment
+- 🌱 I’m currently learning Dsa and Wev development
 
 
 <!---
